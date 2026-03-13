@@ -1,7 +1,5 @@
 # Struktur-Data-A
 
-# Struktur-Data-A
-
 1. Penjelasan Konsep Array
 Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data dengan tipe yang sama dan disimpan dalam memori yang berurutan (contiguous memory allocation).
 
